@@ -40,6 +40,8 @@ If You Already Have an Account (Login)
 • Can request a clearance
 
 
+
+
 3. Teacher
 • Can borrow unlimited books
 • Must return all the books you borrowed at the end of the school year for clearance
@@ -49,10 +51,14 @@ If You Already Have an Account (Login)
 • Can request a clearance
 
 
+
+
 5. Librarian
 • Can add, update, and archive books
 • Can unarchive books
 • Manages book inventory and book details
+
+
 
 
 7. Staff
@@ -64,6 +70,8 @@ borrowed
 his/her penalties
 • Assists students and teachers during clearance by inputting Username, School Year, and
 setting the clearance status (cleared or not)
+
+
 
 
 4. Features by Role
@@ -90,6 +98,8 @@ View Penalties
 Clearance
 1. Go to Clearance.
 2. Input the academic year and request a clearance.
+
+   
    
 B. Teacher Features
 Borrow a Book
@@ -118,6 +128,8 @@ Clearance
 2. Input the academic year.
 3. Request a clearance.
 
+   
+
 C. Librarian Features
 Add a Book
 1. Click Add Book.
@@ -142,6 +154,8 @@ View Archived Books
 2. You can see the books you archived.
 3. Press Restore to unarchive a book, then go back to Archive Book to view the book you
 just restored.
+
+
 
 D. Staff Features
 Facilitate Borrowing
