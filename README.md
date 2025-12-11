@@ -1,18 +1,19 @@
-Smart Library Web System – User Guide
+SMART LIBRARY WEB SYSTEM – USER GUIDE
 
-1. System Overview
+
+1. SYSTEM OVERVIEW
 The Smart Library Web System is a web-based application for managing library operations such
 as borrowing, returning, reserving, and monitoring book status. The system supports four user
 roles: Student, Teacher, Librarian, and Staff, each having specific permissions.
 
-3. Getting Started
+3. GETTING STARTED
 How to Access the System
 1. Open your web browser.
 2. Go to: http://localhost/LIBRARYSYSTEM/
 3. Choose Login or Sign Up depending on your status.
 
    
-If You Are a New User (Sign Up)
+IF YOU ARE A NEW USER (SIGN UP)
 1. Click Sign Up.
 2. Fill out the required information:
 o First Name
@@ -24,13 +25,13 @@ o Contact Number
 3. Click Sign Up.
 
    
-If You Already Have an Account (Login)
+IF YOU ALREADY HAVE AN ACCOUNT (LOGIN)
 1. Enter your email and password.
 2. Click Login.
 3. You will be redirected to your dashboard based on your role.
 
    
-3. User Roles
+3. USER ROLES
 1. Student
 • Can borrow up to 3 books per semester
 • Must return 3 books for clearance
@@ -74,7 +75,8 @@ setting the clearance status (cleared or not)
 
 
 
-4. Features by Role
+4. FEATURES BY ROLE
+   
 A. Student Features
 Borrow a Book
 1. Go to Borrow Book.
